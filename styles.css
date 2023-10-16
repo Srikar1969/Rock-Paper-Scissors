@@ -309,7 +309,6 @@ button:hover{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 5rem;
     height: 100vh;
     overflow: hidden;
     margin-bottom: 5rem;
